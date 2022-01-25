@@ -1,6 +1,6 @@
 {
   "name": "tmp",
-  "type": "commonjs",
+  "type": "module",
   "description": "Мой первый проект на Хекслете",
   "version": "1.0.0",
   "main": "index.js",
