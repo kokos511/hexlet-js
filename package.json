@@ -1,8 +1,21 @@
 {
+  "name": "tmp",
+  "type": "commonjs",
+  "description": "Мой первый проект на Хекслете",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
   "devDependencies": {
     "eslint": "^8.6.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.4",
     "prettier": "^2.5.1"
-  }
+  },
+  "author": "",
+  "license": "ISC"
 }
